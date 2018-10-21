@@ -1,0 +1,16 @@
+name = "FluxTutorials"
+uuid = "46ba5748-ca3f-11e8-0731-154fa5ab3729"
+authors = ["Elliot Saba <staticfloat@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BSON = "fbb218c0-5317-5bc6-957e-2ee96dd4b1f0"
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+ImageMagick = "6218d12a-5da1-5696-b52f-db25d2ecc6d1"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Metalhead = "dbeba491-748d-5e0e-a39e-b530a07fa0cc"
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
+PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
